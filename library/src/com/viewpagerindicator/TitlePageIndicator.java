@@ -35,6 +35,7 @@ import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;
+import com.ViewPagerIndicator.R;
 
 import java.util.ArrayList;
 
